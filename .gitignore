@@ -1,0 +1,8 @@
+.idea
+.pytest_cache
+dist
+test/.pytest_cache
+.iml
+.DS_Store
+package
+src/__pycache__
